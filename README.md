@@ -1,2 +1,2 @@
 # sumario-vendas
-Um simples sumários utilizando o framework Vue.js 2
+Um simples sumário de vendas utilizando o framework Vue.js 2
